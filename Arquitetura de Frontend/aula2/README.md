@@ -232,7 +232,7 @@ Pelo Angular dá para adaptar nativamente a aplicação para SSR.
 
 ## Tópico 3: <a href="https://nextjs.org/">Next.js</a>
 
-![Logo Next.js](imgs/next.png)
+![Logo Next.js](imgs/next.webp)
 
 - FM baseado em React e matindo pela Vercel;
 
